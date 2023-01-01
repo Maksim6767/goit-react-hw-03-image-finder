@@ -1,4 +1,5 @@
 import { ImageItem, Image } from './ImageGalleryItem.styled';
+
 export const ImageGallaryItem = ({
   id,
   imageLink,

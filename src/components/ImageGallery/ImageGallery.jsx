@@ -17,6 +17,7 @@ export const ImageGallery = ({ searchResults, lookBigImg }) => {
     </GalleryList>
   );
 };
+
 ImageGallery.propTypes = {
   searchResults: PropTypes.arrayOf(
     PropTypes.shape({
